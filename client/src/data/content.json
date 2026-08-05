@@ -1,0 +1,130 @@
+{
+  "profile": {
+    "name": "Shubham Kumar",
+    "title": "MERN Stack Developer",
+    "tagline": "I build simple, clean, and user-friendly web applications.",
+    "bio": "I am a developer interested in building practical web applications using JavaScript, React, Node.js, Express, and MongoDB.",
+    "location": "Noida, India",
+    "email": "shubham@gmail.com",
+    "imageUrl": "",
+    "resumeUrl": "https://your-resume-link.com",
+    "availableForWork": true
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "category": "Frontend",
+      "level": "Intermediate"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "category": "Frontend",
+      "level": "Intermediate"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "category": "Frontend",
+      "level": "Intermediate"
+    },
+    {
+      "id": 4,
+      "name": "React",
+      "category": "Frontend",
+      "level": "Intermediate"
+    },
+    {
+      "id": 5,
+      "name": "Node.js",
+      "category": "Backend",
+      "level": "Beginner"
+    },
+    {
+      "id": 6,
+      "name": "Express.js",
+      "category": "Backend",
+      "level": "Beginner"
+    },
+    {
+      "id": 7,
+      "name": "MongoDB",
+      "category": "Database",
+      "level": "Beginner"
+    },
+    {
+      "id": 8,
+      "name": "Git",
+      "category": "Tools",
+      "level": "Intermediate"
+    },
+    {
+      "id": 9,
+      "name": "GitHub",
+      "category": "Tools",
+      "level": "Intermediate"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Developer Profile Website",
+      "description": "A personal developer profile website built using the MERN stack.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://your-live-demo-link.com",
+      "repoUrl": "https://github.com/yourusername/developer-profile",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Sample Project",
+      "description": "A sample project placeholder. Replace this with your real project details.",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://your-live-demo-link.com",
+      "repoUrl": "https://github.com/yourusername/sample-project",
+      "featured": false
+    }
+  ],
+  "contactLinks": [
+    {
+      "id": 1,
+      "platform": "Email",
+      "label": "yourname@example.com",
+      "url": "mailto:yourname@example.com",
+      "icon": "email"
+    },
+    {
+      "id": 2,
+      "platform": "GitHub",
+      "label": "GitHub Profile",
+      "url": "https://github.com/yourusername",
+      "icon": "github"
+    },
+    {
+      "id": 3,
+      "platform": "LinkedIn",
+      "label": "LinkedIn Profile",
+      "url": "https://linkedin.com/in/yourusername",
+      "icon": "linkedin"
+    },
+    {
+      "id": 4,
+      "platform": "Resume",
+      "label": "Download Resume",
+      "url": "https://your-resume-link.com",
+      "icon": "resume"
+    }
+  ]
+}
