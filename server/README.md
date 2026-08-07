@@ -1,15 +1,25 @@
 # Server
 
-This folder contains the Node.js, Express, and MongoDB backend for the Developer Profile Website.
+This is the backend API for the Developer Profile Website.
 
-## Planned Backend Features
+## Technology Stack
 
-- Serve profile data
-- Serve skills data
-- Serve projects data
-- Serve contact links data
-- Connect to MongoDB
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
 
-## Status
+## API Endpoints
 
-Phase 1: Folder structure and planning only.
+- GET /api
+- GET /api/profile
+- GET /api/skills
+- GET /api/projects
+- GET /api/contact-links
+
+## Setup
+
+1. Install dependencies
+
+```bash
+npm install
